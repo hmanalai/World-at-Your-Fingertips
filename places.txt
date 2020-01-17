@@ -1,0 +1,32 @@
+5
+Hila
+Kabul, Afghanistan
+34.521839
+69.180672
+White
+Hila
+Amsterdam, Netherlands
+52.370216
+4.895168
+White
+Hila
+Seoul, South Korea
+37.532600
+127.024612
+White
+Hila
+Honolulu, Hawaii
+21.306944
+-157.858337
+White
+Hila
+Istanbul
+38.9637
+35.2433
+White
+
+
+# NOTES:
+# 1) The first number represents the number of entries in the file. Make sure you update that number if you add more.
+# 2) No spaces between entries! The code doesn't handle blank lines.
+# 3) Don't forget the type of data for each line as you create the code.
